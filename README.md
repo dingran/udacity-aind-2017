@@ -24,4 +24,32 @@ Useful resources:
 ---
 ### Project1: Solve a Sudoku with AI
 
+Instruction: https://github.com/udacity/AIND-Sudoku
 
+Solution: https://github.com/dingran1019/AIND-Sudoku
+
+
+---
+### Project2: Build a Game-Playing Agent
+
+Instruction: https://github.com/dingran1019/AIND-Isolation
+
+Solution: https://github.com/dingran1019/AIND-Isolation
+
+---
+### Lab: Teaching Pac-Man to Search
+
+---
+### Lab: Simulated Annealing
+https://github.com/udacity/AIND-Simulated_Annealing
+
+---
+### Lab: Constraint Satisfaction Problems
+https://github.com/udacity/AIND-Constraint_Satisfaction
+
+---
+### Project3: Implement a Planning Search
+https://github.com/udacity/AIND-Planning
+
+
+---
